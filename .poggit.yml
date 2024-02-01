@@ -1,7 +1,6 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/adeynes/parsecmd
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/BlackD14/parsecmd
 branches:
 - master
-- stable
 
 projects:
   parsecmd:
